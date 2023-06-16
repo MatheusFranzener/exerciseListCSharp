@@ -1,0 +1,13 @@
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\bin\Debug\netcoreapp3.1\firstappwithCSharp.exe
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\bin\Debug\netcoreapp3.1\firstappwithCSharp.deps.json
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\bin\Debug\netcoreapp3.1\firstappwithCSharp.runtimeconfig.json
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\bin\Debug\netcoreapp3.1\firstappwithCSharp.runtimeconfig.dev.json
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\bin\Debug\netcoreapp3.1\firstappwithCSharp.dll
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\bin\Debug\netcoreapp3.1\firstappwithCSharp.pdb
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\obj\Debug\netcoreapp3.1\firstappwithCSharp.csprojAssemblyReference.cache
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\obj\Debug\netcoreapp3.1\firstappwithCSharp.AssemblyInfoInputs.cache
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\obj\Debug\netcoreapp3.1\firstappwithCSharp.AssemblyInfo.cs
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\obj\Debug\netcoreapp3.1\firstappwithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\obj\Debug\netcoreapp3.1\firstappwithCSharp.dll
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\obj\Debug\netcoreapp3.1\firstappwithCSharp.pdb
+C:\Users\matheus_hohmann\Documents\GitHub\firstappwithCSharp\firstappwithCSharp\obj\Debug\netcoreapp3.1\firstappwithCSharp.genruntimeconfig.cache
