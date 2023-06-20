@@ -109,7 +109,23 @@ namespace firstappwithCSharp.atividades
 
         public static void questao03()
         {
+            Console.WriteLine("Informe o seu sexo \n1- Masculino \n2- Feminino \n>: ");
+            int opcaoSexo = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Informe sua altura: ");
+            double altura = Convert.ToDouble(Console.ReadLine());
 
+            double pesoIdeal;
+
+            switch (opcaoSexo) {
+                case 1:
+                    pesoIdeal = (72.7 * altura) - 58;
+                    break;
+                case 2:
+                    pesoIdeal = (62.1 * altura) - 44.7;
+                    break;
+            }
+
+            Console.WriteLine("Seu peso ideal é: " + pesoIdeal);
         }
     }
 }
