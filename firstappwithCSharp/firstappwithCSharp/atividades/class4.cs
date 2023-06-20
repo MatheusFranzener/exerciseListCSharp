@@ -23,49 +23,38 @@ namespace firstappwithCSharp.atividades
                     questao03();
                     break;
                 case 4:
-                    questao03();
+                    questao04();
                     break;
                 case 5:
-                    questao03();
+                    questao05();
                     break;
                 case 6:
-                    questao03();
+                    questao06();
                     break;
                 case 7:
-                    questao03();
+                    questao07();
                     break;
                 case 8:
-                    questao03();
                     break;
                 case 9:
-                    questao03();
                     break;
                 case 10:
-                    questao03();
                     break;
                 case 11:
-                    questao03();
                     break;
                 case 12:
-                    questao03();
                     break;
                 case 13:
-                    questao03();
                     break;
                 case 14:
-                    questao03();
                     break;
                 case 15:
-                    questao03();
                     break;
                 case 16:
-                    questao03();
                     break;
                 case 17:
-                    questao03();
                     break;
                 case 18:
-                    questao03();
                     break;
             }
         }
@@ -79,12 +68,81 @@ namespace firstappwithCSharp.atividades
 
         public static void questao02()
         {
-          
+            Console.WriteLine("Insira a quantidade de números que deseja calcular a fatorial: ");
+            int qtdNum = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 0; i < qtdNum; i++) {
+                Console.WriteLine("Informe um número: (" + i + ")");
+                int numero = Convert.ToInt32(Console.ReadLine());
+
+                long resultadoFatorial = fatorialNum(num);
+
+                Console.WriteLine("O resultado do fatorial foi: " +  resultadoFatorial);
+            }
+        }
+
+        public static long fatorialNum(int num) {
+            long fatorial = 1;
+
+            for (int i = 1; i <= numero; i++)
+            {
+                fatorial *= i;
+            }
+
+            return fatorial;
         }
 
         public static void questao03()
         {
-           
+           for(int i= 100; i<=200; i++)
+            {
+                if (i % 2 != 0) {
+                    Console.WriteLine(i);
+                }
+            }
+        }
+
+        public static void questao04() {
+            for (int i = 1; i <= 2000; i++) { 
+                Console.Write(i);
+            }
+        }
+
+        public static void questao05() {
+            Console.WriteLine("Selecione uma tabuada: (1-10)");
+            int numTabuada = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 1; i <= 10 ; i++)
+            {
+                Console.WriteLine(i + " X " + numTabuada +  " = " + i * numTabuada);
+            }
+        }
+
+        public static void questao06()
+        {
+            int numero = 0, pares = 0, impares = 0;
+
+            while (numero >= 0) {
+                Console.WriteLine("Informe um número: ");
+                numero = Convert.ToInt32(Console.ReadLine());
+
+                if (numero % 2 == 0)
+                {
+                    Console.WriteLine("O número é par!");
+                    pares += numero;
+                }
+                else {
+                    Console.WriteLine("O número é ímpar!");
+                    impares += numero;
+                }
+            }
+
+            Console.WriteLine("Soma dos números pares: " + pares + "\nSoma dos números ímpares: " + impares);
+        }
+
+        public static void questao07()
+        {
+
         }
     }
 }
