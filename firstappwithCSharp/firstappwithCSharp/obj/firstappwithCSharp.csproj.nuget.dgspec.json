@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus_hohmann\\Documents\\GitHub\\firstappwithCSharp\\firstappwithCSharp\\firstappwithCSharp.csproj": {}
+    "C:\\Users\\matheus_hohmann\\Documents\\GitHub\\exerciseListCSharp\\firstappwithCSharp\\firstappwithCSharp\\firstappwithCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus_hohmann\\Documents\\GitHub\\firstappwithCSharp\\firstappwithCSharp\\firstappwithCSharp.csproj": {
+    "C:\\Users\\matheus_hohmann\\Documents\\GitHub\\exerciseListCSharp\\firstappwithCSharp\\firstappwithCSharp\\firstappwithCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus_hohmann\\Documents\\GitHub\\firstappwithCSharp\\firstappwithCSharp\\firstappwithCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\matheus_hohmann\\Documents\\GitHub\\exerciseListCSharp\\firstappwithCSharp\\firstappwithCSharp\\firstappwithCSharp.csproj",
         "projectName": "firstappwithCSharp",
-        "projectPath": "C:\\Users\\matheus_hohmann\\Documents\\GitHub\\firstappwithCSharp\\firstappwithCSharp\\firstappwithCSharp.csproj",
+        "projectPath": "C:\\Users\\matheus_hohmann\\Documents\\GitHub\\exerciseListCSharp\\firstappwithCSharp\\firstappwithCSharp\\firstappwithCSharp.csproj",
         "packagesPath": "C:\\Users\\matheus_hohmann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matheus_hohmann\\Documents\\GitHub\\firstappwithCSharp\\firstappwithCSharp\\obj\\",
+        "outputPath": "C:\\Users\\matheus_hohmann\\Documents\\GitHub\\exerciseListCSharp\\firstappwithCSharp\\firstappwithCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matheus_hohmann\\AppData\\Roaming\\NuGet\\NuGet.Config",

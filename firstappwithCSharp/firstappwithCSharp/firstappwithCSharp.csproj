@@ -8,11 +8,13 @@
   <ItemGroup>
     <Compile Remove="atividades\class1.cs" />
     <Compile Remove="atividades\class2.cs" />
+    <Compile Remove="atividades\class3.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="atividades\class1.cs" />
     <None Include="atividades\class2.cs" />
+    <None Include="atividades\class3.cs" />
   </ItemGroup>
 
 </Project>
